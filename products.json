@@ -42,5 +42,16 @@
         ],
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Darth Vader",
+        "image": "img/products/darth-vader.png",
+        "additionalImages": [
+            "https://placekitten.com/200/139",
+            "https://placekitten.com/200/139?2"
+        ],
+        "description": "Darth Vader sticker",
+        "price": 49.99
     }
 ]
